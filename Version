@@ -1,1 +1,8 @@
-1.4
+{
+version : '1.0',
+downloadLink: 'https://google.com',
+Messahe : '1.0',
+ChangeLog : 'New Loader',
+isClose : 'true',
+filename : ''
+}
