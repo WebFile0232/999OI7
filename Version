@@ -2,7 +2,7 @@
 version : '1.0',
 downloadLink: 'https://google.com',
 Messahe : '1.0',
-ChangeLog : 'New Loader',
+ChangeLog : 'https://raw.githubusercontent.com/WebFile0232/999OI7/master/Change%20Log',
 isClose : 'true',
 filename : ''
 }
