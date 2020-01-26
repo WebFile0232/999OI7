@@ -1,7 +1,7 @@
 {
-version : '1.0',
-downloadLink: 'https://google.com',
-Messahe : '1.0',
+version : '1.2',
+downloadLink: 'https://github.com/WebFile0232/999OI7/raw/master/VEVWARE%20Loader.exe',
+Message : '1.2',
 ChangeLog : 'https://raw.githubusercontent.com/WebFile0232/999OI7/master/Change%20Log',
 isClose : 'true',
 filename : ''
