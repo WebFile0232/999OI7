@@ -1,5 +1,8 @@
 
 =============
+1.9
+-changed loader user system
+=============
 1.8
 -LUA API!
 -fixed auto-updater (manual DL)
