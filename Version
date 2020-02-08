@@ -1,7 +1,7 @@
 {
-version : '2.2',
+version : '2.3',
 downloadLink: 'https://mega.nz/#F!Q8tzTKSa!gt9BeGMGuNzPZLC_ojd1Tw',
-Message : '2.2 is out',
+Message : '2.3 is out',
 ChangeLog : 'https://raw.githubusercontent.com/WebFile0232/999OI7/master/Change%20Log',
 isClose : 'true',
 filename : 'VEVWARE Loader.exe'
